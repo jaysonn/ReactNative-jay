@@ -4,14 +4,18 @@
 ## 在Window下搭建ReactNative Android开发环境
 http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83
 
+
+
 ## ReactNative中文教程:
 里面含有70集的中文教程，还在不断更新中
 http://www.reactnative.vip/thread-161-1-1.html
  
 
+
 ## ReactNative中文网地址:
 有简单的组件的教程也有论坛
 http://reactnative.cn/
+ 
  
 
 ## ReactNative英文网地址：
@@ -29,9 +33,13 @@ http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%
 https://js.coach/react-native/react-native-image-zoom
  
  
+ 
+ 
 ## 大量的React Native文章、教程和示例
 是github上一位外国的帅哥收集的资料
 https://github.com/jondot/awesome-react-native
+ 
+ 
  
  
 ## 贯彻全栈ReactNative开发App
@@ -40,9 +48,12 @@ http://coding.imooc.com/class/56.html
  
  
  
+ 
 ## 从CSDN中收集的ReactNative教程
 里面也有大量的教程，从环境的搭建到项目
 http://lib.csdn.net/base/reactnative
+ 
+ 
  
  
 ## ReactNative学习指南
@@ -50,14 +61,20 @@ http://lib.csdn.net/base/reactnative
 http://68xg.com/reactnative/63.html
  
  
+ 
+ 
 ## 江清清的技术专栏
 每周都会定期的更新一些关于ReactNative的技术，同样也有一些开源的项目
 http://www.lcode.org/
  
  
+ 
+ 
 ## React英文官网地址():
 ReactNative是基于React语言编写的
 https://facebook.github.io/react/docs/getting-started.html
+ 
+ 
  
 
 ## Node.js官网
@@ -66,16 +83,23 @@ https://nodejs.org/en/
  
  
 # 额外：
+
 ## PhoneGap中文网址：
 里面也有很多关于hybrid App开发的技术，PhoneGap,ionic,JQM
 http://www.phonegap100.com/
  
+ 
+ 
 ## 阿里自主研发的与ReactNative类似的开发技术,Weex
 http://alibaba.github.io/weex/
+ 
+ 
  
 ## Vue.js
 Weex是基于Vue.js编写的
 http://cn.vuejs.org/
+ 
+ 
  
 ## weex&ReactNative对比
 https://zhuanlan.zhihu.com/p/21677103
